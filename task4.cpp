@@ -39,11 +39,11 @@ int main()
     myQueue<int> q(5);
     myStack<int> s(5);
 
-    q.enqueue(-3);
+    q.enqueue(-1);
+    q.enqueue(5);
     q.enqueue(-2);
-    q.enqueue(7);
-    q.enqueue(3);
     q.enqueue(2);
+    q.enqueue(3);
 
     int count = 0;
 
