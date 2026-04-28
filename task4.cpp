@@ -31,8 +31,8 @@ Result stored in stack: 	  11
 
 */
 
-#include "../myQueue.h"
-#include "../myStack.h"
+#include "../DSA-headerFiles-using-Cpp/myQueue.h"
+#include "../DSA-headerFiles-using-Cpp/myStack.h"
 
 int main()
 {
